@@ -1,22 +1,20 @@
-=== YoutTube Batch Processing ===
-Author: Ovais Tariq <me@ovaistariq.net>
+YoutTube Batch Processing
+=========================
+Allows you to fetch information about many youtube videos in one request. Uses the youtube batch processing api. All you need to do is pass the youtube urls of the videos that you want to query and you will reciev an array of objects containing all the information about the video such as title, categories, tags, etc.
 
-== Description ==
-
-Allows you to fetch information about many youtube videos in one request.
-Uses the youtube batch processing api.
-All you need to do is pass the youtube urls of the videos that you want to query and you will reciev an array of objects containing all the information about the video such as title, categories, tags, etc.
-
-== Installation ==
-
+Installation
+============
 There is no installation needed.
 
-== Requirements ==
+Requirements
+============
 PHP >= 5.0
 curl
 SimpleXML
 
-
+Author
+======
+Ovais Tariq <me@ovaistariq.net>
 
 Please report any bugs!
 Thank you.
