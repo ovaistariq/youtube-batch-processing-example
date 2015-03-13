@@ -1,0 +1,1 @@
+This is an implementation of the YouTube batch processing API. It is intended for use as an example of how to use the batch processing API. I intend on adding more functionality as soon I have enough time.
